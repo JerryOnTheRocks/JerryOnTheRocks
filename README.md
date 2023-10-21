@@ -10,3 +10,46 @@
   <img src="https://media.giphy.com/media/lvjW50Ld1D4qHD0wra/giphy.gif" width="30"/>
 </h1>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+---
+
+### 👨‍💻 About Me:
+I am a Software Engineer specializing in crafting full-stack JavaScript/TypeScript applications.
+- 🧠 Founder of WatchDog, A CLI tool to streamline Kubernetes monitoring, enhancing real-time metrics and reducing system downtime.
+
+- 🌱 Active in open-source projects, dedicated to making substantial contributions that significantly enrich and empower our community.
+
+- 💙 Sharing invaluable experience to elevate emerging engineering talents.
+
+- 🦴 I'm also a proud dog dad and 🧗 avid climber!
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+---
+
+### :writing_hand: Blog Posts :
+
+- [WatchDog: A Developer's Bestfriend]([https://your-blog-link.com](https://medium.com/@watchdogcli/introducing-watchdog-a-developers-best-friend-5e32cb3b194d))
+
+### 💻 Checkout our NPM Package :
+
+- [Watchdog]([https://your-portfolio-link.com](https://www.npmjs.com/package/watchdogcli)https://www.npmjs.com/package/watchdogcli)
+
+
+
+
+
