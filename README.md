@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW93YmZzb3djanU1c3lqMGRkOHdwMW1sb2JtMXFjYXo1dDgzanNwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6FT3QE3AJMfwJDZBNr/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/jerryp">
+  <a href="https://www.linkedin.com/in/jerryp">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <h1>
@@ -11,7 +11,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="250" height="150"/>
 </div>
 ---
 
@@ -37,19 +37,15 @@ I am a Software Engineer specializing in crafting full-stack JavaScript/TypeScri
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 ---
 
 ### :writing_hand: Blog Posts :
 
-- [WatchDog: A Developer's Bestfriend]([https://your-blog-link.com](https://medium.com/@watchdogcli/introducing-watchdog-a-developers-best-friend-5e32cb3b194d))
+- [WatchDog: A Developer's Bestfriend](https://medium.com/@watchdogcli/introducing-watchdog-a-developers-best-friend-5e32cb3b194d)
 
 ### 💻 Checkout our NPM Package :
 
-- [Watchdog]([https://your-portfolio-link.com](https://www.npmjs.com/package/watchdogcli)https://www.npmjs.com/package/watchdogcli)
-
-
-
-
+- [Watchdog](https://www.npmjs.com/package/watchdogcli)
 
